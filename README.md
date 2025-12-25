@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Morteza Hosseinzadeh</h1>
-<h3 align="center">Frontend Developer focused on React and Next.js Passionate about building modern, clean, and fast user interfaces 🚀 💻 4+ years of experience in web development ⚛️ React / Next.js 🎨 UI/UX, Performance, Clean Code 📦 Currently working on projects and open-source packages</h3>
+<h3 align="center">Frontend Developer focused on React & Next.js, building modern and fast user interfaces 🚀
+💻 4+ years experience · 🎨 UI/UX & clean code · 📦 Open-source & side projects</h3>
 
 - 🔭 I’m currently working on [vortex-web-team-app](https://github.com/Morteza-Hoseinzadeh/vortex-web-team-app)
 
